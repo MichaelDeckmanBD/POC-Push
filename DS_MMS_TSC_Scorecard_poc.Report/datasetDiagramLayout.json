@@ -1,0 +1,1215 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1057.2027587890625,
+        "y": 1164.8001708984375
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1075.7,
+            "y": 1195.2
+          },
+          "nodeIndex": "Cases",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 64
+        },
+        {
+          "location": {
+            "x": 2236.9,
+            "y": 1507.4
+          },
+          "nodeIndex": "Calls",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 66
+        },
+        {
+          "location": {
+            "x": 1794.6,
+            "y": 1568.6
+          },
+          "nodeIndex": "Customers",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 67
+        },
+        {
+          "location": {
+            "x": 2732.2,
+            "y": 705.9
+          },
+          "nodeIndex": "Employee Site",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 65
+        },
+        {
+          "location": {
+            "x": 1920.8,
+            "y": 1400.6
+          },
+          "nodeIndex": "Departments",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 77
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 1594
+          },
+          "nodeIndex": "Materials",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 72
+        },
+        {
+          "location": {
+            "x": 1105.8,
+            "y": 1572
+          },
+          "nodeIndex": "MLC",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 71
+        },
+        {
+          "location": {
+            "x": 1052.7,
+            "y": 798.7
+          },
+          "nodeIndex": "Knowledge Article",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 68
+        },
+        {
+          "location": {
+            "x": 1029,
+            "y": 1776.5
+          },
+          "nodeIndex": "Category Code Description",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 52
+        },
+        {
+          "location": {
+            "x": 694.7,
+            "y": 2061.8
+          },
+          "nodeIndex": "Complaint Type Description",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 70
+        },
+        {
+          "location": {
+            "x": 1117.5,
+            "y": 959.3
+          },
+          "nodeIndex": "Minutes to Close Bucket",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 73
+        },
+        {
+          "location": {
+            "x": 829.6,
+            "y": 1579
+          },
+          "nodeIndex": "Priority Description",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 53
+        },
+        {
+          "location": {
+            "x": 823.4,
+            "y": 1107.8
+          },
+          "nodeIndex": "Status Description",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 69
+        },
+        {
+          "location": {
+            "x": 1837.3,
+            "y": 2346.5
+          },
+          "nodeIndex": "Actual VQ",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 54
+        },
+        {
+          "location": {
+            "x": 3211.2,
+            "y": 1858.4
+          },
+          "nodeIndex": "DNIS",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 55
+        },
+        {
+          "location": {
+            "x": 2091.7,
+            "y": 2061.3
+          },
+          "nodeIndex": "Handle Type",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 56
+        },
+        {
+          "location": {
+            "x": 2144.5,
+            "y": 2261.3
+          },
+          "nodeIndex": "Interaction Type",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 57
+        },
+        {
+          "location": {
+            "x": 2535.8,
+            "y": 2133
+          },
+          "nodeIndex": "Requested VQ",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 58
+        },
+        {
+          "location": {
+            "x": 2927.1,
+            "y": 2037.8
+          },
+          "nodeIndex": "Required Skill",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 59
+        },
+        {
+          "location": {
+            "x": 2822.7,
+            "y": 1379.5
+          },
+          "nodeIndex": "Resource Role",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 60
+        },
+        {
+          "location": {
+            "x": 2873,
+            "y": 1573.1
+          },
+          "nodeIndex": "Resource Type",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 61
+        },
+        {
+          "location": {
+            "x": 2397.2,
+            "y": 1974.4
+          },
+          "nodeIndex": "Result Reason",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 62
+        },
+        {
+          "location": {
+            "x": 2662.4,
+            "y": 1840.6
+          },
+          "nodeIndex": "Technical Result",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 63
+        },
+        {
+          "location": {
+            "x": 1703.7,
+            "y": 929.7
+          },
+          "nodeIndex": "Case Metrics",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 80
+        },
+        {
+          "location": {
+            "x": 2481.8,
+            "y": 1300.5
+          },
+          "nodeIndex": "Transaction Dates",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 49
+        },
+        {
+          "location": {
+            "x": 2831.9,
+            "y": 334.5
+          },
+          "nodeIndex": "Agent Metrics by Day",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 76
+        },
+        {
+          "location": {
+            "x": 3788.5,
+            "y": 1200.4
+          },
+          "nodeIndex": "KPI Calls",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 50
+        },
+        {
+          "location": {
+            "x": 4179.7,
+            "y": 1200.4
+          },
+          "nodeIndex": "KPI Cases",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 51
+        },
+        {
+          "location": {
+            "x": 4571,
+            "y": 1200.4
+          },
+          "nodeIndex": "Labels",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 1690.4,
+            "y": 2025.9
+          },
+          "nodeIndex": "Regions",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 2440.6,
+            "y": 576.2
+          },
+          "nodeIndex": "Employee",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 661.5,
+            "y": 808.8
+          },
+          "nodeIndex": "Cases Open",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 79
+        },
+        {
+          "location": {
+            "x": 270.2,
+            "y": 803.5
+          },
+          "nodeIndex": "Cases Closed",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 561.8,
+            "y": 1195
+          },
+          "nodeIndex": "IBase",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 78
+        },
+        {
+          "location": {
+            "x": 4962.3,
+            "y": 1262.4
+          },
+          "nodeIndex": "KPI Calls Dynamic Measures Cnt",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 5353.5,
+            "y": 1214.4
+          },
+          "nodeIndex": "KPI Calls Dynamic Legend",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 26
+        },
+        {
+          "location": {
+            "x": 5744.8,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_calls_01_productcategory",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 6136.1,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_calls_02_skill",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 6527.3,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_calls_03_mgr1",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 29
+        },
+        {
+          "location": {
+            "x": 6918.6,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_calls_04_agent",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 30
+        },
+        {
+          "location": {
+            "x": 3091.5,
+            "y": 2323.1
+          },
+          "nodeIndex": "DynamicLegendCalls",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 74
+        },
+        {
+          "location": {
+            "x": 7309.8,
+            "y": 1262.4
+          },
+          "nodeIndex": "KPI Calls Dynamic Measures %",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 31
+        },
+        {
+          "location": {
+            "x": 7701.1,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_01_productcategory",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 32
+        },
+        {
+          "location": {
+            "x": 8092.4,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_02_category",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 33
+        },
+        {
+          "location": {
+            "x": 8483.6,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_03_priority",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 34
+        },
+        {
+          "location": {
+            "x": 8874.9,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_04_community",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 35
+        },
+        {
+          "location": {
+            "x": 1486.6,
+            "y": 332.2
+          },
+          "nodeIndex": "DynamicLegendCases",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 36
+        },
+        {
+          "location": {
+            "x": 9266.2,
+            "y": 1262.4
+          },
+          "nodeIndex": "KPI Cases Dynamic Measures Cnt",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 37
+        },
+        {
+          "location": {
+            "x": 9657.4,
+            "y": 1200.4
+          },
+          "nodeIndex": "KPI Cases Dynamic Legend",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 38
+        },
+        {
+          "location": {
+            "x": 1884.2,
+            "y": 458.6
+          },
+          "nodeIndex": "DynamicLegendCommunityCases",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 39
+        },
+        {
+          "location": {
+            "x": 10048.7,
+            "y": 1262.4
+          },
+          "nodeIndex": "KPI Cases Dynamic Measures %",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 40
+        },
+        {
+          "location": {
+            "x": 10439.9,
+            "y": 1274.4
+          },
+          "nodeIndex": "KPI Community Cases Dynamic Measures %",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 41
+        },
+        {
+          "location": {
+            "x": 10831.2,
+            "y": 1274.4
+          },
+          "nodeIndex": "KPI Community Cases Dynamic Measures Cnt",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 42
+        },
+        {
+          "location": {
+            "x": 11222.5,
+            "y": 1274.4
+          },
+          "nodeIndex": "KPI Time to Assign in Hours Dynamic Measures Cnt",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 43
+        },
+        {
+          "location": {
+            "x": 188.3,
+            "y": 1136.7
+          },
+          "nodeIndex": "Customer Contacts",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 44
+        },
+        {
+          "location": {
+            "x": 2090.5,
+            "y": 1033.4
+          },
+          "nodeIndex": "PrimaryProduct",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 75
+        },
+        {
+          "location": {
+            "x": 2481.8,
+            "y": 991.2
+          },
+          "nodeIndex": "PrimaryProductGroup",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 45
+        },
+        {
+          "location": {
+            "x": 11613.7,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_aht_02_primaryproduct",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 46
+        },
+        {
+          "location": {
+            "x": 12005,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_aht_01_primaryproductgroup",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 47
+        },
+        {
+          "location": {
+            "x": 2311.4,
+            "y": 83.7
+          },
+          "nodeIndex": "DynamicLegendAgentMetricsbyDay",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 48
+        },
+        {
+          "location": {
+            "x": 12396.3,
+            "y": 1200.4
+          },
+          "nodeIndex": "KPI Agent Metics by Day",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 12787.5,
+            "y": 1238.4
+          },
+          "nodeIndex": "KPI AMBD Dynamic Legent",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 13178.8,
+            "y": 1274.4
+          },
+          "nodeIndex": "KPI AMBD Dynamic Measures Cnt",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 3397.2,
+            "y": 0
+          },
+          "nodeIndex": "Associate",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 3223.2,
+            "y": 457.3
+          },
+          "nodeIndex": "Agent Product Assignment",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 13570,
+            "y": 1200.4
+          },
+          "nodeIndex": "Slicers",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 1539.5,
+            "y": 1400.1
+          },
+          "nodeIndex": "Products",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 81
+        },
+        {
+          "location": {
+            "x": 13961.3,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_08_agent*",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 14352.6,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_08_agent_NULLs",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 14743.8,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_08_agent",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 15135.1,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_07_mgr1_NULLs",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 15526.4,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_07_mgr1*",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 15917.6,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_05_phl4*",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 16308.9,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_06_phl5*",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 16700.1,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_05_phl4",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 17091.4,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_05_phl4_NULLs",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 17482.7,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_06_phl5",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 17873.9,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_06_phl5_NULLs",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 18265.2,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_cases_07_mgr1",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 18656.5,
+            "y": 1200.4
+          },
+          "nodeIndex": "AgentProductMapping",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 2873,
+            "y": 980.7
+          },
+          "nodeIndex": "WaitDurations for ASA Calculations",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 19047.7,
+            "y": 1262.4
+          },
+          "nodeIndex": "dl_calls_00_queuename",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 19411.5,
+            "y": 0
+          },
+          "nodeIndex": "Queue",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 20171.5,
+            "y": 0
+          },
+          "nodeIndex": "DynamicLegendCallStats",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 152,
+            "y": 170
+          },
+          "nodeIndex": "Cases",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 528,
+            "y": 172
+          },
+          "nodeIndex": "Case Metrics",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 855,
+            "y": 594
+          },
+          "nodeIndex": "Cases Closed",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 788,
+            "y": 199
+          },
+          "nodeIndex": "Cases Open",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Layout 1",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 2,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 314.78243258552334,
+            "y": 0
+          },
+          "nodeIndex": "PrimaryProductGroup",
+          "nodeLineageTag": "5d1467d2-8d3e-4da3-be83-3bbcfbde849d",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 639.08330215567855,
+            "y": 488.70132239304439
+          },
+          "nodeIndex": "PrimaryProduct",
+          "nodeLineageTag": "cb4ed66f-b056-442d-abd9-4986259bf6cb",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 639.08799767860773,
+            "y": 90.895717516518687
+          },
+          "nodeIndex": "Employee",
+          "nodeLineageTag": "796505ba-13bd-4a2c-ad07-ac953a66e32b",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 8.857804999999999,
+            "y": 419.96248595976664
+          },
+          "nodeIndex": "Agent Product Assignment",
+          "nodeLineageTag": "8c133427-b250-4f31-addd-41ba947c57b8",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 14.172488000000016,
+            "y": 106.94299238533081
+          },
+          "nodeIndex": "Transaction Dates",
+          "nodeLineageTag": "f0e4afd2-1836-47a2-bd08-4abfa5083470",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 2,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 314.81959033327234,
+            "y": 632.62785103411284
+          },
+          "nodeIndex": "DynamicLegendAgentMetricsbyDay",
+          "nodeLineageTag": "7c818529-e420-4e07-b48d-8f1280a9d0f7",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 311.12332400000031,
+            "y": 197.30756500000015
+          },
+          "nodeIndex": "Agent Metrics By Day",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 805.38884300000052,
+            "y": 262.85532200000017
+          },
+          "nodeIndex": "DynamicLegendCommunityCases",
+          "nodeLineageTag": "ad35c845-455b-4972-9aae-ccd94e4a5ca5",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 8,
+          "expandedHeight": 176
+        }
+      ],
+      "name": "Layout 2",
+      "zoomValue": 56.447393005377712,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Layout 2",
+  "defaultDiagram": "All tables"
+}
