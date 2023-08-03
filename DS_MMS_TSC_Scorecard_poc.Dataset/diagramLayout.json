@@ -1105,7 +1105,7 @@
             "height": 128,
             "width": 234
           },
-          "zIndex": 5
+          "zIndex": 3
         },
         {
           "location": {
@@ -1118,7 +1118,7 @@
             "height": 128,
             "width": 234
           },
-          "zIndex": 1
+          "zIndex": 8
         },
         {
           "location": {
@@ -1131,7 +1131,7 @@
             "height": 128,
             "width": 234
           },
-          "zIndex": 3,
+          "zIndex": 5,
           "expandedHeight": 300
         },
         {
@@ -1145,7 +1145,7 @@
             "height": 104,
             "width": 234
           },
-          "zIndex": 4,
+          "zIndex": 1,
           "expandedHeight": 300
         },
         {
@@ -1159,13 +1159,13 @@
             "height": 104,
             "width": 234
           },
-          "zIndex": 2,
+          "zIndex": 4,
           "expandedHeight": 300
         },
         {
           "location": {
-            "x": 314.81959033327234,
-            "y": 632.62785103411284
+            "x": 321.90583433327237,
+            "y": 625.54160703411287
           },
           "nodeIndex": "DynamicLegendAgentMetricsbyDay",
           "nodeLineageTag": "7c818529-e420-4e07-b48d-8f1280a9d0f7",
@@ -1173,7 +1173,7 @@
             "height": 176,
             "width": 234
           },
-          "zIndex": 7
+          "zIndex": 6
         },
         {
           "location": {
@@ -1185,12 +1185,12 @@
             "height": 300,
             "width": 234
           },
-          "zIndex": 6
+          "zIndex": 2
         },
         {
           "location": {
-            "x": 805.38884300000052,
-            "y": 262.85532200000017
+            "x": 945.34216200000049,
+            "y": 112.27263700000013
           },
           "nodeIndex": "DynamicLegendCommunityCases",
           "nodeLineageTag": "ad35c845-455b-4972-9aae-ccd94e4a5ca5",
@@ -1198,8 +1198,34 @@
             "height": 104,
             "width": 234
           },
-          "zIndex": 8,
+          "zIndex": 7,
           "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 950.65684500000134,
+            "y": 425.83893400000022
+          },
+          "nodeIndex": "Required Skill",
+          "nodeLineageTag": "bca5e091-3e75-4a28-87f4-4739676ab203",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 947.11372300000085,
+            "y": 259.31220000000019
+          },
+          "nodeIndex": "Actual VQ",
+          "nodeLineageTag": "50b99260-09a1-4878-8607-a880a359f7a9",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 9
         }
       ],
       "name": "Layout 2",

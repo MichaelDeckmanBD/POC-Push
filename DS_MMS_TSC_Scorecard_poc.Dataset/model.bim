@@ -25663,611 +25663,6 @@
                   }
                 ]
               },
-              "customer_contact.contact_B_partner": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "ContactBPartner"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "contact B partner": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "ContactBPartner": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "partner": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "B partner": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "connection b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.609
-                    }
-                  },
-                  {
-                    "interaction b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.609
-                    }
-                  },
-                  {
-                    "phone b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.591
-                    }
-                  },
-                  {
-                    "telephone b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.591
-                    }
-                  },
-                  {
-                    "communication b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.591
-                    }
-                  },
-                  {
-                    "e-mail b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.591
-                    }
-                  },
-                  {
-                    "link b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.591
-                    }
-                  },
-                  {
-                    "reach b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.591
-                    }
-                  },
-                  {
-                    "contact b wife": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.508
-                    }
-                  },
-                  {
-                    "contact b lover": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.508
-                    }
-                  }
-                ]
-              },
-              "customer_contact.contact_customer_B_partner": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "ContactCustomerBPartner"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "contact customer B partner": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "ContactCustomerBPartner": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "partner": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "B partner": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "connection customer b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.617
-                    }
-                  },
-                  {
-                    "interaction customer b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.617
-                    }
-                  },
-                  {
-                    "contact client b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.617
-                    }
-                  },
-                  {
-                    "contact consumer b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.617
-                    }
-                  },
-                  {
-                    "contact user b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.617
-                    }
-                  },
-                  {
-                    "contact buyer b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.617
-                    }
-                  },
-                  {
-                    "contact patron b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.617
-                    }
-                  },
-                  {
-                    "contact purchaser b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.617
-                    }
-                  },
-                  {
-                    "contact shopper b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.617
-                    }
-                  },
-                  {
-                    "phone customer b partner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.599
-                    }
-                  }
-                ]
-              },
-              "customer_contact.contact_name": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "ContactName"
-                  }
-                },
-                "NameType": "Name",
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "contact name": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "name": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "ContactName": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "contact": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "contact nickname": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "contact title": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "contact label": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "contact tag": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "phone": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.714
-                    }
-                  },
-                  {
-                    "telephone": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.714
-                    }
-                  },
-                  {
-                    "communication": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.714
-                    }
-                  },
-                  {
-                    "e-mail": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.714
-                    }
-                  },
-                  {
-                    "link": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.714
-                    }
-                  },
-                  {
-                    "reach": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.714
-                    }
-                  }
-                ]
-              },
-              "customer_contact.created_date": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "CreatedDate"
-                  }
-                },
-                "SemanticType": "Time",
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "created date": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "CreatedDate": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "date": {
-                      "State": "Generated",
-                      "Weight": 0.7
-                    }
-                  },
-                  {
-                    "created moment": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.75
-                    }
-                  },
-                  {
-                    "created period": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  }
-                ]
-              },
-              "customer_contact.customer_contacts_index": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "CustomerContactsIndex"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "customer contacts index": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "customer contact index": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.78
-                    }
-                  },
-                  {
-                    "CustomerContactsIndex": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "index": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "contacts index": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "contact index": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.7566
-                    }
-                  },
-                  {
-                    "client contact index": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.609
-                    }
-                  },
-                  {
-                    "consumer contact index": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.609
-                    }
-                  },
-                  {
-                    "user contact index": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.609
-                    }
-                  },
-                  {
-                    "buyer contact index": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.609
-                    }
-                  },
-                  {
-                    "patron contact index": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.609
-                    }
-                  },
-                  {
-                    "purchaser contact index": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.609
-                    }
-                  },
-                  {
-                    "shopper contact index": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.609
-                    }
-                  },
-                  {
-                    "customer contact directory": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.492
-                    }
-                  },
-                  {
-                    "customer contact catalogue": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.492
-                    }
-                  },
-                  {
-                    "customer contact catalog": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.492
-                    }
-                  }
-                ]
-              },
               "customer_contact.department": {
                 "Definition": {
                   "Binding": {
@@ -26370,651 +25765,6 @@
                       "State": "Suggested",
                       "Type": "Noun",
                       "Weight": 0.452
-                    }
-                  }
-                ]
-              },
-              "customer_contact.email_address": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "EmailAddress"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "email address": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "EmailAddress": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "address": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "email location": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.75
-                    }
-                  },
-                  {
-                    "email direction": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.75
-                    }
-                  },
-                  {
-                    "email residence": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.75
-                    }
-                  },
-                  {
-                    "direction": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.736
-                    }
-                  },
-                  {
-                    "residence": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.736
-                    }
-                  },
-                  {
-                    "email contact": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "email place": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "place": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.714
-                    }
-                  }
-                ]
-              },
-              "customer_contact.fax_number": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "FaxNumber"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "fax number": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "FaxNumber": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "fax no": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  }
-                ]
-              },
-              "customer_contact.first_name": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "FirstName"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "first name": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "FirstName": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "first nickname": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "first title": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "first label": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "first tag": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "1st name": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.582
-                    }
-                  }
-                ]
-              },
-              "customer_contact.last_name": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "LastName"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "last name": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "LastName": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "last nickname": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "last title": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "last label": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "last tag": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "end name": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.582
-                    }
-                  },
-                  {
-                    "final name": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.582
-                    }
-                  },
-                  {
-                    "closing name": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.582
-                    }
-                  },
-                  {
-                    "concluding name": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.582
-                    }
-                  },
-                  {
-                    "finishing name": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.582
-                    }
-                  },
-                  {
-                    "former name": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.582
-                    }
-                  }
-                ]
-              },
-              "customer_contact.middle_name": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "MiddleName"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "middle name": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "MiddleName": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "middle": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "middle nickname": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "middle title": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "middle label": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "middle tag": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  },
-                  {
-                    "central": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.476
-                    }
-                  },
-                  {
-                    "intermediate": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.476
-                    }
-                  },
-                  {
-                    "inside": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.476
-                    }
-                  },
-                  {
-                    "medium": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.476
-                    }
-                  },
-                  {
-                    "interior": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.476
-                    }
-                  },
-                  {
-                    "inner": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.476
-                    }
-                  }
-                ]
-              },
-              "customer_contact.source_system": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "SourceSystem"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "source system": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "SourceSystem": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "system": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "source organization": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.5
-                    }
-                  },
-                  {
-                    "source arrangement": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.5
-                    }
-                  },
-                  {
-                    "source classification": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.5
-                    }
-                  },
-                  {
-                    "source coordination": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.5
-                    }
-                  },
-                  {
-                    "source organism": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.5
-                    }
-                  },
-                  {
-                    "organization": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.491
-                    }
-                  },
-                  {
-                    "arrangement": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.491
-                    }
-                  },
-                  {
-                    "classification": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.491
-                    }
-                  },
-                  {
-                    "coordination": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.491
-                    }
-                  },
-                  {
-                    "organism": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.491
-                    }
-                  }
-                ]
-              },
-              "customer_contact.tele_phone_number": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Customer Contacts",
-                    "ConceptualProperty": "TelePhoneNumber"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "tele phone number": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "TelePhoneNumber": {
-                      "State": "Generated",
-                      "Type": "Noun",
-                      "Weight": 0.99
-                    }
-                  },
-                  {
-                    "phone number": {
-                      "State": "Generated",
-                      "Weight": 0.97
-                    }
-                  },
-                  {
-                    "tele phone no": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.739
-                    }
-                  },
-                  {
-                    "phone no": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
                     }
                   }
                 ]
@@ -38044,32 +36794,6 @@
                   }
                 ]
               },
-              "knowledge_article.article_number": {
-                "Definition": {
-                  "Binding": {
-                    "ConceptualEntity": "Knowledge Article",
-                    "ConceptualProperty": "Article Number"
-                  }
-                },
-                "State": "Generated",
-                "Terms": [
-                  {
-                    "article number": {
-                      "State": "Generated"
-                    }
-                  },
-                  {
-                    "article no": {
-                      "Source": {
-                        "Agent": "OfficeThesaurus"
-                      },
-                      "State": "Suggested",
-                      "Type": "Noun",
-                      "Weight": 0.727
-                    }
-                  }
-                ]
-              },
               "knowledge_article.knowledge_article_id": {
                 "Definition": {
                   "Binding": {
@@ -43841,7 +42565,9 @@
                 },
                 "State": "Generated",
                 "Terms": [
-                  {},
+                  {
+                    "": {}
+                  },
                   {
                     "province": {
                       "Source": {
@@ -49682,7 +48408,7 @@
                 "Definition": {
                   "Binding": {
                     "ConceptualEntity": "Technical Result",
-                    "ConceptualProperty": "Technical Result"
+                    "ConceptualProperty": "TechnicalResult"
                   }
                 },
                 "NameType": "Name",
@@ -61520,13 +60246,6 @@
         "toTable": "Transaction Dates"
       },
       {
-        "name": "5163d244-e564-421a-a98b-1e505fe1b2d5",
-        "fromColumn": "ContactCustomerBPartner",
-        "fromTable": "Cases",
-        "toColumn": "ContactBPartner",
-        "toTable": "Customer Contacts"
-      },
-      {
         "name": "0b34f84c-45b2-4eb5-b651-101774b0fa86",
         "fromColumn": "Date",
         "fromTable": "Agent Metrics By Day",
@@ -61621,6 +60340,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -61667,19 +60390,18 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null), ",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data], ",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
+                "  Source = PowerBI.Dataflows(null), ",
+                "  #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Source",
+                "    {[workspaceId = \"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}",
                 "    [Data], ",
-                "  #\"7bc93924-f969-421b-923c-4548c9c73b7e\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"7bc93924-f969-421b-923c-4548c9c73b7e\"]}",
+                "  #\"7e037c51-2b49-4d16-84c3-eb70f5e9c9bc\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"",
+                "    {[dataflowId = \"7e037c51-2b49-4d16-84c3-eb70f5e9c9bc\"]}",
                 "    [Data], ",
-                "  RV_trafero_semantic_canonical_tsc_actualvq_ = #\"7bc93924-f969-421b-923c-4548c9c73b7e\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_actualvq\", version = \"\"]}",
+                "  RV_trafero_semantic_canonical_tsc_actualvq1 = #\"7e037c51-2b49-4d16-84c3-eb70f5e9c9bc\"",
+                "    {[entity = \"RV_trafero_semantic_canonical_tsc_actualvq\"]}",
                 "    [Data], ",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
-                "    RV_trafero_semantic_canonical_tsc_actualvq_, ",
+                "    RV_trafero_semantic_canonical_tsc_actualvq1, ",
                 "    {{\"ActualVQ\", \"Actual VQ\"}}",
                 "  )",
                 "in",
@@ -61692,11 +60414,6 @@
       },
       {
         "name": "Agent Metrics By Day",
-        "changedProperties": [
-          {
-            "property": "Name"
-          }
-        ],
         "columns": [
           {
             "name": "ACW Time",
@@ -62382,6 +61099,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -62531,16 +61252,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"b85c5b01-590c-40a3-bdfb-610fa8b1429f\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"b85c5b01-590c-40a3-bdfb-610fa8b1429f\"]}",
-                "    [Data],",
-                "  AgentProductMapping_ = #\"b85c5b01-590c-40a3-bdfb-610fa8b1429f\"",
-                "    {[entity = \"AgentProductMapping\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Workspaces{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"3cbe9802-7ced-4a88-a1f1-741211c97be0\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"3cbe9802-7ced-4a88-a1f1-741211c97be0\"]}[Data],",
+                "    AgentProductMapping_ = #\"3cbe9802-7ced-4a88-a1f1-741211c97be0\"{[entity=\"AgentProductMapping\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    AgentProductMapping_,",
                 "    {",
@@ -62566,6 +61281,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -62728,15 +61447,9 @@
               "expression": [
                 "let",
                 "  Source = PowerBI.Dataflows(null),",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Source",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"b85c5b01-590c-40a3-bdfb-610fa8b1429f\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"b85c5b01-590c-40a3-bdfb-610fa8b1429f\"]}",
-                "    [Data],",
-                "  AgentProductMapping1 = #\"b85c5b01-590c-40a3-bdfb-610fa8b1429f\"",
-                "    {[entity = \"AgentProductMapping\"]}",
-                "    [Data],",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Source{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"3cbe9802-7ced-4a88-a1f1-741211c97be0\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"3cbe9802-7ced-4a88-a1f1-741211c97be0\"]}[Data],",
+                "    AgentProductMapping1 = #\"3cbe9802-7ced-4a88-a1f1-741211c97be0\"{[entity=\"AgentProductMapping\"]}[Data],",
                 "  #\"Replaced Value\" = Table.ReplaceValue(",
                 "    AgentProductMapping1,",
                 "    \"NULL\",",
@@ -63004,7 +61717,11 @@
         "annotations": [
           {
             "name": "PBI_ResultType",
-            "value": "Exception"
+            "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -63382,7 +62099,7 @@
               "        Calls[Calls Answered] = 0,",
               "        AND (",
               "            Calls[Calls Offered] >= 1,",
-              "            RELATED ( 'Technical Result'[Technical Result] ) = \"user\"",
+              "            RELATED ( 'Technical Result'[TechnicalResult] ) = \"user\"",
               "        )",
               "    ),",
               "    \"Y\",",
@@ -63929,7 +62646,7 @@
               "        Calls[Calls Answered] = 0,",
               "        AND (",
               "            Calls[Calls Offered] >= 1,",
-              "            RELATED ( 'Technical Result'[Technical Result] ) = \"agent\"",
+              "            RELATED ( 'Technical Result'[TechnicalResult] ) = \"agent\"",
               "        )",
               "    ),",
               "    \"Y\",",
@@ -64020,48 +62737,57 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
-                "    #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces{[workspaceId=\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}[Data],",
-                "    #\"2f604379-88e6-4253-b91e-33aa4068edae\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"{[dataflowId=\"2f604379-88e6-4253-b91e-33aa4068edae\"]}[Data],",
-                "    Calls_ = #\"2f604379-88e6-4253-b91e-33aa4068edae\"{[entity=\"Calls\",version=\"\"]}[Data],",
-                "    #\"Filtered Rows\" = Table.SelectRows(Calls_, each ([Media Type] = \"voice\")),",
+                "  Source = PowerBI.Dataflows(null), ",
+                "  #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Source",
+                "    {[workspaceId = \"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}",
+                "    [Data], ",
+                "  #\"6de6c488-8d21-4c6d-b145-497e9c424f1d\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"",
+                "    {[dataflowId = \"6de6c488-8d21-4c6d-b145-497e9c424f1d\"]}",
+                "    [Data], ",
+                "  Calls1 = #\"6de6c488-8d21-4c6d-b145-497e9c424f1d\"{[entity = \"Calls\"]}[Data], ",
+                "  #\"Filtered Rows\" = Table.SelectRows(Calls1, each ([Media Type] = \"voice\")), ",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
-                "    #\"Filtered Rows\",",
+                "    #\"Filtered Rows\", ",
                 "    {",
-                "      {\"ActualProductSkill\", \"Actual Product Skill\"},",
-                "      {\"CallDate\", \"Call Date\"},",
-                "      {\"CallRona\", \"Call Rona\"},",
-                "      {\"CallsAbandoned\", \"Calls Abandoned\"},",
-                "      {\"CallsAnswered\", \"Calls Answered\"},",
-                "      {\"CallsAnsweredIn15Minutes\", \"Calls Answered In 15 Minutes\"},",
-                "      {\"CallsAnsweredIn3Minutes\", \"Calls Answered In 3 Minutes\"},",
-                "      {\"CallsAnsweredIn5Minutes\", \"Calls Answered In 5 Minutes\"},",
-                "      {\"CallsHandled\", \"Calls Handled\"},",
-                "      {\"CaseId\", \"Case ID\"},",
-                "      {\"CaseRona\", \"Case Rona\"},",
-                "      {\"ConnectionId\", \"Connection ID\"},",
-                "      {\"Customer_Id\", \"Customer ID\"},",
-                "      {\"DialDuration\", \"Dial Duration\"},",
-                "      {\"DNISRoutingModified\", \"DNIS Routing Modified\"},",
-                "      {\"EmployeeDepartment\", \"Employee Department\"},",
-                "      {\"EmployeeId\", \"Employee ID\"},",
-                "      {\"HandleType\", \"Handle Type\"},",
-                "      {\"HoldTime\", \"Hold Time\"},",
-                "      {\"InteractionId\", \"Interaction ID\"},",
-                "      {\"InteractionResourceId\", \"Interaction Resource ID\"},",
-                "      {\"PrimaryProduct\", \"Primary Product\"},",
-                "      {\"PrimaryProductGroup\", \"Primary Product Group\"},",
-                "      {\"ProductCategory\", \"Product Category\"},",
-                "      {\"RingDuration\", \"Ring Duration\"},",
-                "      {\"TalktimeInbound\", \"Talk Time Inbound\"},",
-                "      {\"TalktimeInternal\", \"Talk Time Internal\"},",
-                "      {\"TalktimeOutbound\", \"Talk Time Outbound\"},",
-                "      {\"VHSuccessFlag\", \"VH Success Flag\"},",
+                "      {\"ActualProductSkill\", \"Actual Product Skill\"}, ",
+                "      {\"CallDate\", \"Call Date\"}, ",
+                "      {\"CallRona\", \"Call Rona\"}, ",
+                "      {\"CallsAbandoned\", \"Calls Abandoned\"}, ",
+                "      {\"CallsAnswered\", \"Calls Answered\"}, ",
+                "      {\"CallsAnsweredIn15Minutes\", \"Calls Answered In 15 Minutes\"}, ",
+                "      {\"CallsAnsweredIn3Minutes\", \"Calls Answered In 3 Minutes\"}, ",
+                "      {\"CallsAnsweredIn5Minutes\", \"Calls Answered In 5 Minutes\"}, ",
+                "      {\"CallsHandled\", \"Calls Handled\"}, ",
+                "      {\"CaseId\", \"Case ID\"}, ",
+                "      {\"CaseRona\", \"Case Rona\"}, ",
+                "      {\"ConnectionId\", \"Connection ID\"}, ",
+                "      {\"Customer_Id\", \"Customer ID\"}, ",
+                "      {\"DialDuration\", \"Dial Duration\"}, ",
+                "      {\"DNISRoutingModified\", \"DNIS Routing Modified\"}, ",
+                "      {\"EmployeeDepartment\", \"Employee Department\"}, ",
+                "      {\"EmployeeId\", \"Employee ID\"}, ",
+                "      {\"HandleType\", \"Handle Type\"}, ",
+                "      {\"HoldTime\", \"Hold Time\"}, ",
+                "      {\"InteractionId\", \"Interaction ID\"}, ",
+                "      {\"InteractionResourceId\", \"Interaction Resource ID\"}, ",
+                "      {\"PrimaryProduct\", \"Primary Product\"}, ",
+                "      {\"PrimaryProductGroup\", \"Primary Product Group\"}, ",
+                "      {\"ProductCategory\", \"Product Category\"}, ",
+                "      {\"RingDuration\", \"Ring Duration\"}, ",
+                "      {\"TalktimeInbound\", \"Talk Time Inbound\"}, ",
+                "      {\"TalktimeInternal\", \"Talk Time Internal\"}, ",
+                "      {\"TalktimeOutbound\", \"Talk Time Outbound\"}, ",
+                "      {\"VHSuccessFlag\", \"VH Success Flag\"}, ",
                 "      {\"WaitDuration\", \"Wait Duration\"}",
                 "    }",
-                "  ),",
-                "    #\"Replaced Value\" = Table.ReplaceValue(#\"Renamed Columns\",null,\"9999999999\",Replacer.ReplaceValue,{\"Employee ID\"})",
+                "  ), ",
+                "  #\"Replaced Value\" = Table.ReplaceValue(",
+                "    #\"Renamed Columns\", ",
+                "    null, ",
+                "    \"9999999999\", ",
+                "    Replacer.ReplaceValue, ",
+                "    {\"Employee ID\"}",
+                "  )",
                 "in",
                 "  #\"Replaced Value\""
               ],
@@ -64076,6 +62802,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -64718,27 +63448,30 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
-                "    #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces{[workspaceId=\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}[Data],",
-                "    #\"fc4fbbe3-2dd2-47ab-9249-1176eccad2a1\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"{[dataflowId=\"fc4fbbe3-2dd2-47ab-9249-1176eccad2a1\"]}[Data],",
-                "    CaseMetrics_ = #\"fc4fbbe3-2dd2-47ab-9249-1176eccad2a1\"{[entity=\"CaseMetrics\",version=\"\"]}[Data],",
+                "  Source = PowerBI.Dataflows(null), ",
+                "  #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Source",
+                "    {[workspaceId = \"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}",
+                "    [Data], ",
+                "  #\"a0b9dc0d-114a-4f71-91b0-b33a8a07c472\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"",
+                "    {[dataflowId = \"a0b9dc0d-114a-4f71-91b0-b33a8a07c472\"]}",
+                "    [Data], ",
+                "  CaseMetrics1 = #\"a0b9dc0d-114a-4f71-91b0-b33a8a07c472\"{[entity = \"CaseMetrics\"]}[Data], ",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
-                "    CaseMetrics_,",
+                "    CaseMetrics1, ",
                 "    {",
-                "      {\"CaseDisposition\", \"Case Disposition\"},",
-                "      {\"Close24HrFlag\", \"Close 24 Hour Flag\"},",
-                "      {\"CustomerID\", \"Customer ID\"},",
-                "      {\"DepartmentID\", \"Department ID\"},",
-                "      {\"DispatchFlag\", \"Dispatch Flag\"},",
-                "      {\"EmployeeID\", \"Employee ID\"},",
-                "      {\"MinutesToCloseServiceRequest\", \"Minutes To Close Service Request\"},",
-                "      {\"NoOfReassignment\", \"Number of Reassignments\"},",
-                "      {\"PrimaryProduct\", \"Primary Product\"},",
-                "      {\"PrimaryProductGroup\", \"Primary Product Group\"},",
-                "      {\"ServiceRequestId\", \"Service Request ID\"},",
-                "      {\"TimeToAssignDurationMins\", \"Time To Assign Duration Minutes\"},",
-                "      {\"TransactionDate\", \"Transaction Date\"},",
+                "      {\"CaseDisposition\", \"Case Disposition\"}, ",
+                "      {\"Close24HrFlag\", \"Close 24 Hour Flag\"}, ",
+                "      {\"CustomerID\", \"Customer ID\"}, ",
+                "      {\"DepartmentID\", \"Department ID\"}, ",
+                "      {\"DispatchFlag\", \"Dispatch Flag\"}, ",
+                "      {\"EmployeeID\", \"Employee ID\"}, ",
+                "      {\"MinutesToCloseServiceRequest\", \"Minutes To Close Service Request\"}, ",
+                "      {\"NoOfReassignment\", \"Number of Reassignments\"}, ",
+                "      {\"PrimaryProduct\", \"Primary Product\"}, ",
+                "      {\"PrimaryProductGroup\", \"Primary Product Group\"}, ",
+                "      {\"ServiceRequestId\", \"Service Request ID\"}, ",
+                "      {\"TimeToAssignDurationMins\", \"Time To Assign Duration Minutes\"}, ",
+                "      {\"TransactionDate\", \"Transaction Date\"}, ",
                 "      {\"TSCCompleteFlag\", \"TSC Complete Flag\"}",
                 "    }",
                 "  )",
@@ -64755,7 +63488,11 @@
         "annotations": [
           {
             "name": "PBI_ResultType",
-            "value": "Exception"
+            "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -65419,13 +64156,12 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
-                "    #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces{[workspaceId=\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}[Data],",
-                "    #\"02333bff-5df3-4bee-bbca-1c2aea2a33ba\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"{[dataflowId=\"02333bff-5df3-4bee-bbca-1c2aea2a33ba\"]}[Data],",
-                "    Cases_ = #\"02333bff-5df3-4bee-bbca-1c2aea2a33ba\"{[entity=\"Cases\",version=\"\"]}[Data],",
+                "    Source = PowerBI.Dataflows(null),",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Source{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"5f209813-6138-4875-b9c2-c8fd78e92e16\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"5f209813-6138-4875-b9c2-c8fd78e92e16\"]}[Data],",
+                "    Cases1 = #\"5f209813-6138-4875-b9c2-c8fd78e92e16\"{[entity=\"Cases\"]}[Data],",
                 "  #\"Removed Columns\" = Table.RemoveColumns(",
-                "    Cases_,",
+                "    Cases1,",
                 "    {",
                 "      \"ComplaintType\",",
                 "      \"CategoryCode\",",
@@ -65677,6 +64413,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -65724,17 +64464,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"cae4cbc8-6439-4f0e-82cb-342d18175d63\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"cae4cbc8-6439-4f0e-82cb-342d18175d63\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_categorycodedescription_",
-                "    = #\"cae4cbc8-6439-4f0e-82cb-342d18175d63\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_categorycodedescription\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"049aca4a-976a-4f2b-8d48-6697db00f203\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"049aca4a-976a-4f2b-8d48-6697db00f203\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_categorycodedescription_ = #\"049aca4a-976a-4f2b-8d48-6697db00f203\"{[entity=\"RV_trafero_semantic_canonical_tsc_categorycodedescription\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_categorycodedescription_,",
                 "    {{\"CategoryCodeDescription\", \"Category Code Description\"}}",
@@ -65753,6 +64486,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -65800,17 +64537,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"0429b8e8-8415-405f-9c92-7fb368cd9911\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"0429b8e8-8415-405f-9c92-7fb368cd9911\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_complainttypedescription_",
-                "    = #\"0429b8e8-8415-405f-9c92-7fb368cd9911\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_complainttypedescription\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"eaf4fe2f-e55c-43cf-bb88-234d582db735\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"eaf4fe2f-e55c-43cf-bb88-234d582db735\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_complainttypedescription_ = #\"eaf4fe2f-e55c-43cf-bb88-234d582db735\"{[entity=\"RV_trafero_semantic_canonical_tsc_complainttypedescription\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_complainttypedescription_,",
                 "    {{\"ComplaintTypeDescription\", \"Complaint Type Description\"}}",
@@ -65829,6 +64559,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -65846,7 +64580,7 @@
             "summarizeBy": "none"
           },
           {
-            "name": "ContactBPartner",
+            "name": "Contact B Partner",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65854,12 +64588,12 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "e3d3e89a-3647-45aa-9710-961f8ca28045",
-            "sourceColumn": "ContactBPartner",
+            "lineageTag": "cfe628e7-8d96-42cd-990f-821e3eac3fef",
+            "sourceColumn": "Contact B Partner",
             "summarizeBy": "none"
           },
           {
-            "name": "ContactCustomerBPartner",
+            "name": "Contact Customer B Partner",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65867,12 +64601,12 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "bbb3433b-d375-4341-bb09-6267e8c45827",
-            "sourceColumn": "ContactCustomerBPartner",
+            "lineageTag": "39fdad73-df05-4f14-b656-b340dd1823d4",
+            "sourceColumn": "Contact Customer B Partner",
             "summarizeBy": "none"
           },
           {
-            "name": "ContactName",
+            "name": "Contact Name",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65880,12 +64614,12 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "a2c348cf-c151-49e5-ab96-ceb09d81c42f",
-            "sourceColumn": "ContactName",
+            "lineageTag": "c5b8470e-5978-43a9-a416-154736a1e221",
+            "sourceColumn": "Contact Name",
             "summarizeBy": "none"
           },
           {
-            "name": "CreatedDate",
+            "name": "Created Date",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65898,12 +64632,12 @@
             ],
             "dataType": "dateTime",
             "formatString": "Long Date",
-            "lineageTag": "74e53bdc-c391-4a38-a425-5aa35e48c504",
-            "sourceColumn": "CreatedDate",
+            "lineageTag": "1a04085a-e45f-485a-9e2f-4314c9eda733",
+            "sourceColumn": "Created Date",
             "summarizeBy": "none"
           },
           {
-            "name": "CustomerContactsIndex",
+            "name": "Customer Contacts Index",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65912,9 +64646,9 @@
             ],
             "dataType": "int64",
             "formatString": "0",
-            "lineageTag": "19e1cdc9-fa1c-42d3-9cd9-93f9d69bfb3e",
-            "sourceColumn": "CustomerContactsIndex",
-            "summarizeBy": "none"
+            "lineageTag": "488d24f2-ea08-40e8-85ee-1f8ba2787838",
+            "sourceColumn": "Customer Contacts Index",
+            "summarizeBy": "sum"
           },
           {
             "name": "Department",
@@ -65930,7 +64664,7 @@
             "summarizeBy": "none"
           },
           {
-            "name": "EmailAddress",
+            "name": "Email Address",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65938,12 +64672,12 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "156702af-5e52-40f0-8577-d5c27487fa00",
-            "sourceColumn": "EmailAddress",
+            "lineageTag": "335dda61-a77d-4fe7-a7cc-8a3b40260336",
+            "sourceColumn": "Email Address",
             "summarizeBy": "none"
           },
           {
-            "name": "FaxNumber",
+            "name": "Fax Number",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65951,12 +64685,12 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "8997255a-704e-4dec-8022-56a1f66076bf",
-            "sourceColumn": "FaxNumber",
+            "lineageTag": "ba11ddc3-7a88-4f83-8e6a-95f5b67a19c9",
+            "sourceColumn": "Fax Number",
             "summarizeBy": "none"
           },
           {
-            "name": "FirstName",
+            "name": "First Name",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65964,12 +64698,12 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "6442d75f-b7e9-4abb-871a-87269f9c9417",
-            "sourceColumn": "FirstName",
+            "lineageTag": "74491b40-95a7-48db-8eee-411c3bf18561",
+            "sourceColumn": "First Name",
             "summarizeBy": "none"
           },
           {
-            "name": "LastName",
+            "name": "Last Name",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65977,12 +64711,12 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "f2769b83-0a73-4de2-8d5b-b7342669df91",
-            "sourceColumn": "LastName",
+            "lineageTag": "e0f7eb2a-f98f-4215-8303-683d6282451d",
+            "sourceColumn": "Last Name",
             "summarizeBy": "none"
           },
           {
-            "name": "MiddleName",
+            "name": "Middle Name",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -65990,12 +64724,12 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "00ff9979-9743-48e4-8996-233e88a162b9",
-            "sourceColumn": "MiddleName",
+            "lineageTag": "94c21087-c6bf-4bae-87fe-2920e5c790c9",
+            "sourceColumn": "Middle Name",
             "summarizeBy": "none"
           },
           {
-            "name": "SourceSystem",
+            "name": "Source System",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -66003,12 +64737,12 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "8c6ffeb0-499e-446e-ac66-2a364de52176",
-            "sourceColumn": "SourceSystem",
+            "lineageTag": "122ae008-7178-4df3-bd85-87ff812447a0",
+            "sourceColumn": "Source System",
             "summarizeBy": "none"
           },
           {
-            "name": "TelePhoneNumber",
+            "name": "TelePhone Number",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -66016,8 +64750,8 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "8e2617ea-d197-412b-9a46-7b6e9ad96394",
-            "sourceColumn": "TelePhoneNumber",
+            "lineageTag": "0b2f2af8-bba4-4735-a57a-946f512471c9",
+            "sourceColumn": "TelePhone Number",
             "summarizeBy": "none"
           },
           {
@@ -66045,11 +64779,11 @@
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
                 "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
-                "    #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces{[workspaceId=\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}[Data],",
-                "    #\"e350b2dd-f310-41bf-adba-a82238ec5e2d\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"{[dataflowId=\"e350b2dd-f310-41bf-adba-a82238ec5e2d\"]}[Data],",
-                "    ContactCustomerBPartner_ = #\"e350b2dd-f310-41bf-adba-a82238ec5e2d\"{[entity=\"ContactCustomerBPartner\",version=\"\"]}[Data]",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Workspaces{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"27e3f5b3-be8a-49b1-812d-bc47babf1ff1\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"27e3f5b3-be8a-49b1-812d-bc47babf1ff1\"]}[Data],",
+                "    TSC_CustomerContacts_ = #\"27e3f5b3-be8a-49b1-812d-bc47babf1ff1\"{[entity=\"TSC_CustomerContacts\",version=\"\"]}[Data]",
                 "in",
-                "    ContactCustomerBPartner_"
+                "    TSC_CustomerContacts_"
               ],
               "type": "m"
             }
@@ -66833,6 +65567,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -66880,18 +65618,12 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"17bdee7b-f79c-46e3-90e0-42c51e1583cb\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"17bdee7b-f79c-46e3-90e0-42c51e1583cb\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_dnis_ = #\"17bdee7b-f79c-46e3-90e0-42c51e1583cb\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_dnis\", version = \"\"]}",
-                "    [Data]",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"5cd863f7-09ed-447c-981a-298773612fd5\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"5cd863f7-09ed-447c-981a-298773612fd5\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_dnis_ = #\"5cd863f7-09ed-447c-981a-298773612fd5\"{[entity=\"RV_trafero_semantic_canonical_tsc_dnis\",version=\"\"]}[Data]",
                 "in",
-                "  RV_trafero_semantic_canonical_tsc_dnis_"
+                "    RV_trafero_semantic_canonical_tsc_dnis_"
               ],
               "type": "m"
             }
@@ -66904,6 +65636,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -66957,19 +65693,12 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"73591bbd-0604-4f13-9d05-04508587cee7\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"73591bbd-0604-4f13-9d05-04508587cee7\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_scorecard_departments_ = #\"73591bbd-0604-4f13-9d05-04508587cee7\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_scorecard_departments\", version = \"\"]}",
-                "    [Data],",
+                "    Source = PowerBI.Dataflows(null),",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Source{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"c4a326cd-518b-45a3-ab98-8a7effa47370\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"c4a326cd-518b-45a3-ab98-8a7effa47370\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_scorecard_departments1 = #\"c4a326cd-518b-45a3-ab98-8a7effa47370\"{[entity=\"RV_trafero_semantic_canonical_tsc_scorecard_departments\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
-                "    RV_trafero_semantic_canonical_tsc_scorecard_departments_,",
+                "    RV_trafero_semantic_canonical_tsc_scorecard_departments1,",
                 "    {",
                 "      {\"EmployeeOrgDesc\", \"Employee Org Description\"},",
                 "      {\"Mapping\", \"Employee Department\"},",
@@ -67579,6 +66308,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -67750,15 +66483,11 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"e2f343bf-d0c3-4299-b5aa-06f19929669c\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"e2f343bf-d0c3-4299-b5aa-06f19929669c\"]}",
-                "    [Data],",
-                "  Employee_ = #\"e2f343bf-d0c3-4299-b5aa-06f19929669c\"{[entity = \"Employee\", version = \"\"]}[Data],",
-                "  #\"Renamed Columns\" = Table.RenameColumns(",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Workspaces{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"94cee6d6-93df-4c9d-b756-27a787b99c75\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"94cee6d6-93df-4c9d-b756-27a787b99c75\"]}[Data],",
+                "    Employee_ = #\"94cee6d6-93df-4c9d-b756-27a787b99c75\"{[entity=\"Employee\",version=\"\"]}[Data],",
+                "    #\"Renamed Columns\" = Table.RenameColumns(",
                 "    Employee_,",
                 "    {",
                 "      {\"BusinessSiteName\", \"Business Site Name\"},",
@@ -67786,6 +66515,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -67826,17 +66559,11 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"e2f343bf-d0c3-4299-b5aa-06f19929669c\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"e2f343bf-d0c3-4299-b5aa-06f19929669c\"]}",
-                "    [Data],",
-                "  #\"Employee Site_\" = #\"e2f343bf-d0c3-4299-b5aa-06f19929669c\"",
-                "    {[entity = \"Employee Site\", version = \"\"]}",
-                "    [Data],",
-                "  #\"Renamed Columns\" = Table.RenameColumns(#\"Employee Site_\", {{\"Mapping\", \"Employee Site\"}})",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Workspaces{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"94cee6d6-93df-4c9d-b756-27a787b99c75\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"94cee6d6-93df-4c9d-b756-27a787b99c75\"]}[Data],",
+                "    #\"Employee Site_\" = #\"94cee6d6-93df-4c9d-b756-27a787b99c75\"{[entity=\"Employee Site\",version=\"\"]}[Data],",
+                "    #\"Renamed Columns\" = Table.RenameColumns(#\"Employee Site_\", {{\"Mapping\", \"Employee Site\"}})",
                 "in",
                 "  #\"Renamed Columns\""
               ],
@@ -67851,6 +66578,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -67898,18 +66629,12 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"dbff21c5-20d0-47bb-9a3a-d006032e86f3\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"dbff21c5-20d0-47bb-9a3a-d006032e86f3\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_handletype_ = #\"dbff21c5-20d0-47bb-9a3a-d006032e86f3\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_handletype\", version = \"\"]}",
-                "    [Data]",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"34a6cf96-f940-4c8f-8e8d-099012d7dd52\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"34a6cf96-f940-4c8f-8e8d-099012d7dd52\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_handletype_ = #\"34a6cf96-f940-4c8f-8e8d-099012d7dd52\"{[entity=\"RV_trafero_semantic_canonical_tsc_handletype\",version=\"\"]}[Data]",
                 "in",
-                "  RV_trafero_semantic_canonical_tsc_handletype_"
+                "    RV_trafero_semantic_canonical_tsc_handletype_"
               ],
               "type": "m"
             }
@@ -67922,6 +66647,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -68108,17 +66837,12 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"79e504d4-45fb-4224-a774-b1871c6fdb1b\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"79e504d4-45fb-4224-a774-b1871c6fdb1b\"]}",
-                "    [Data],",
-                "  IObject_ = #\"79e504d4-45fb-4224-a774-b1871c6fdb1b\"{[entity = \"IObject\", version = \"\"]}[Data],",
-                "  #\"Renamed Columns\" = Table.RenameColumns(",
-                "    IObject_,",
+                "    Source = PowerBI.Dataflows(null),",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Source{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"90814c57-204c-4660-9c26-4e14d1a4e2e5\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"90814c57-204c-4660-9c26-4e14d1a4e2e5\"]}[Data],",
+                "    IObject = #\"90814c57-204c-4660-9c26-4e14d1a4e2e5\"{[entity=\"IObject\"]}[Data],",
+                "    #\"Renamed Columns\" = Table.RenameColumns(",
+                "    IObject,",
                 "    {{\"IObjectIdNoLeadingZeros\", \"IObject ID No Leading Zeros\"}}",
                 "  )",
                 "in",
@@ -68135,6 +66859,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -68183,9 +66911,9 @@
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
                 "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
-                "    #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces{[workspaceId=\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}[Data],",
-                "    #\"a85e91e0-0866-440d-9074-7ff1a5d7029d\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"{[dataflowId=\"a85e91e0-0866-440d-9074-7ff1a5d7029d\"]}[Data],",
-                "    RV_trafero_semantic_canonical_tsc_interactiontype_ = #\"a85e91e0-0866-440d-9074-7ff1a5d7029d\"{[entity=\"RV_trafero_semantic_canonical_tsc_interactiontype\",version=\"\"]}[Data]",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"bc140685-a1b2-43d0-990f-a75e0658a86f\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"bc140685-a1b2-43d0-990f-a75e0658a86f\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_interactiontype_ = #\"bc140685-a1b2-43d0-990f-a75e0658a86f\"{[entity=\"RV_trafero_semantic_canonical_tsc_interactiontype\",version=\"\"]}[Data]",
                 "in",
                 "    RV_trafero_semantic_canonical_tsc_interactiontype_"
               ],
@@ -72423,6 +71151,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -72435,7 +71167,7 @@
               }
             ],
             "dataType": "string",
-            "lineageTag": "0774543e-0505-4668-a5e7-08b863996f18",
+            "lineageTag": "d0daed62-11cd-4988-9cdb-5a584973b369",
             "sourceColumn": "Article Number",
             "summarizeBy": "none"
           },
@@ -72468,21 +71200,20 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"02333bff-5df3-4bee-bbca-1c2aea2a33ba\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"02333bff-5df3-4bee-bbca-1c2aea2a33ba\"]}",
-                "    [Data],",
-                "  #\"Knowledge Article_\" = #\"02333bff-5df3-4bee-bbca-1c2aea2a33ba\"",
-                "    {[entity = \"Knowledge Article\", version = \"\"]}",
-                "    [Data],",
+                "  Source = PowerBI.Dataflows(null), ",
+                "  #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Source",
+                "    {[workspaceId = \"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}",
+                "    [Data], ",
+                "  #\"5f209813-6138-4875-b9c2-c8fd78e92e16\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"",
+                "    {[dataflowId = \"5f209813-6138-4875-b9c2-c8fd78e92e16\"]}",
+                "    [Data], ",
+                "  #\"Knowledge Article1\" = #\"5f209813-6138-4875-b9c2-c8fd78e92e16\"",
+                "    {[entity = \"Knowledge Article\"]}",
+                "    [Data], ",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
-                "    #\"Knowledge Article_\",",
-                "    {{\"ArticleNumber\", \"Article Number\"}}",
-                "  ),",
+                "    #\"Knowledge Article1\", ",
+                "    {{\"articlenumber\", \"Article Number\"}}",
+                "  ), ",
                 "  #\"Filtered Rows\" = Table.SelectRows(#\"Renamed Columns\", each true)",
                 "in",
                 "  #\"Filtered Rows\""
@@ -77576,6 +76307,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -77646,16 +76381,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows([]),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"2c75acb2-a0ef-4a66-a591-2e330011662f\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"2c75acb2-a0ef-4a66-a591-2e330011662f\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tscmultilevelcat_ = #\"2c75acb2-a0ef-4a66-a591-2e330011662f\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tscmultilevelcat\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"e81782ac-06d8-475c-b9de-2f16c909614d\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"e81782ac-06d8-475c-b9de-2f16c909614d\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tscmultilevelcat_ = #\"e81782ac-06d8-475c-b9de-2f16c909614d\"{[entity=\"RV_trafero_semantic_canonical_tscmultilevelcat\",version=\"\"]}[Data],",
                 "  #\"Removed Columns\" = Table.RemoveColumns(",
                 "    RV_trafero_semantic_canonical_tscmultilevelcat_,",
                 "    {",
@@ -77693,6 +76422,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -77967,17 +76700,12 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"79e504d4-45fb-4224-a774-b1871c6fdb1b\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"79e504d4-45fb-4224-a774-b1871c6fdb1b\"]}",
-                "    [Data],",
-                "  Materials_ = #\"79e504d4-45fb-4224-a774-b1871c6fdb1b\"{[entity = \"Materials\", version = \"\"]}[Data],",
-                "  #\"Renamed Columns\" = Table.RenameColumns(",
-                "    Materials_,",
+                "    Source = PowerBI.Dataflows(null),",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Source{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"90814c57-204c-4660-9c26-4e14d1a4e2e5\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"90814c57-204c-4660-9c26-4e14d1a4e2e5\"]}[Data],",
+                "    Materials1 = #\"90814c57-204c-4660-9c26-4e14d1a4e2e5\"{[entity=\"Materials\"]}[Data],",
+                "    #\"Renamed Columns\" = Table.RenameColumns(",
+                "    Materials1,",
                 "    {",
                 "      {\"ProductCategory\", \"Product Category\"},",
                 "      {\"ProductSubCategory\", \"Product Sub Category\"},",
@@ -78011,7 +76739,11 @@
         "annotations": [
           {
             "name": "PBI_ResultType",
-            "value": "Table"
+            "value": "Exception"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78079,16 +76811,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"0392bc48-71e2-4a13-bcf2-f9800ae1dd1e\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"0392bc48-71e2-4a13-bcf2-f9800ae1dd1e\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_minutestoclosebucket_ = #\"0392bc48-71e2-4a13-bcf2-f9800ae1dd1e\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_minutestoclosebucket\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"8b9db1ed-a993-407a-855f-e133011b11bc\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"8b9db1ed-a993-407a-855f-e133011b11bc\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_minutestoclosebucket_ = #\"8b9db1ed-a993-407a-855f-e133011b11bc\"{[entity=\"RV_trafero_semantic_canonical_tsc_minutestoclosebucket\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_minutestoclosebucket_,",
                 "    {{\"MinutesToCloseBucket\", \"Minutes to Close Bucket\"}}",
@@ -78107,6 +76833,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78148,18 +76878,12 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"b85c5b01-590c-40a3-bdfb-610fa8b1429f\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"b85c5b01-590c-40a3-bdfb-610fa8b1429f\"]}",
-                "    [Data],",
-                "  PrimaryProduct_ = #\"b85c5b01-590c-40a3-bdfb-610fa8b1429f\"",
-                "    {[entity = \"PrimaryProduct\", version = \"\"]}",
-                "    [Data]",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Workspaces{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"3cbe9802-7ced-4a88-a1f1-741211c97be0\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"3cbe9802-7ced-4a88-a1f1-741211c97be0\"]}[Data],",
+                "    PrimaryProduct_ = #\"3cbe9802-7ced-4a88-a1f1-741211c97be0\"{[entity=\"PrimaryProduct\",version=\"\"]}[Data]",
                 "in",
-                "  PrimaryProduct_"
+                "    PrimaryProduct_"
               ],
               "type": "m"
             }
@@ -78172,6 +76896,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78213,18 +76941,12 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"b85c5b01-590c-40a3-bdfb-610fa8b1429f\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"b85c5b01-590c-40a3-bdfb-610fa8b1429f\"]}",
-                "    [Data],",
-                "  PrimaryProductGroup_ = #\"b85c5b01-590c-40a3-bdfb-610fa8b1429f\"",
-                "    {[entity = \"PrimaryProductGroup\", version = \"\"]}",
-                "    [Data]",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Workspaces{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"3cbe9802-7ced-4a88-a1f1-741211c97be0\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"3cbe9802-7ced-4a88-a1f1-741211c97be0\"]}[Data],",
+                "    PrimaryProductGroup_ = #\"3cbe9802-7ced-4a88-a1f1-741211c97be0\"{[entity=\"PrimaryProductGroup\",version=\"\"]}[Data]",
                 "in",
-                "  PrimaryProductGroup_"
+                "    PrimaryProductGroup_"
               ],
               "type": "m"
             }
@@ -78237,6 +76959,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78284,16 +77010,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"a5562717-b7b2-4dbb-a2c8-dd7c6aabef35\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"a5562717-b7b2-4dbb-a2c8-dd7c6aabef35\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_prioritydescription_ = #\"a5562717-b7b2-4dbb-a2c8-dd7c6aabef35\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_prioritydescription\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"e5b36c18-146d-4262-8e7e-0995808a4bb1\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"e5b36c18-146d-4262-8e7e-0995808a4bb1\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_prioritydescription_ = #\"e5b36c18-146d-4262-8e7e-0995808a4bb1\"{[entity=\"RV_trafero_semantic_canonical_tsc_prioritydescription\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_prioritydescription_,",
                 "    {{\"PriorityDescription\", \"Priority Description\"}}",
@@ -78360,6 +77080,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78399,13 +77123,12 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
-                "    #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces{[workspaceId=\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}[Data],",
-                "    #\"2f604379-88e6-4253-b91e-33aa4068edae\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"{[dataflowId=\"2f604379-88e6-4253-b91e-33aa4068edae\"]}[Data],",
-                "    Queue_ = #\"2f604379-88e6-4253-b91e-33aa4068edae\"{[entity=\"Queue\",version=\"\"]}[Data]",
+                "  Source = PowerBI.Dataflows(null),",
+                "    #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\" = Source{[workspaceId=\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"]}[Data],",
+                "    #\"6de6c488-8d21-4c6d-b145-497e9c424f1d\" = #\"9a1d1e5d-e1a4-472c-8746-c8e79831dc62\"{[dataflowId=\"6de6c488-8d21-4c6d-b145-497e9c424f1d\"]}[Data],",
+                "    Queue1 = #\"6de6c488-8d21-4c6d-b145-497e9c424f1d\"{[entity=\"Queue\"]}[Data]",
                 "in",
-                "    Queue_"
+                "    Queue1"
               ],
               "type": "m"
             }
@@ -78418,6 +77141,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78458,19 +77185,12 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"7a46cf55-a296-4428-8cc0-e1184edcd5c9\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"7a46cf55-a296-4428-8cc0-e1184edcd5c9\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_regions_ = #\"7a46cf55-a296-4428-8cc0-e1184edcd5c9\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_regions\", version = \"\"]}",
-                "    [Data]",
+                "    Source = PowerBI.Dataflows(null),",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Source{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"f480f788-4f7c-47be-87c2-4e65b62a20de\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"f480f788-4f7c-47be-87c2-4e65b62a20de\"]}[Data],",
+                "    RV_trafero_semantic_canonical_regions1 = #\"f480f788-4f7c-47be-87c2-4e65b62a20de\"{[entity=\"RV_trafero_semantic_canonical_regions\"]}[Data]",
                 "in",
-                "  RV_trafero_semantic_canonical_regions_"
+                "    RV_trafero_semantic_canonical_regions1"
               ],
               "type": "m"
             }
@@ -78483,6 +77203,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78530,16 +77254,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"cc059a8f-b367-4610-a930-22dd4415da87\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"cc059a8f-b367-4610-a930-22dd4415da87\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_requestedvq_ = #\"cc059a8f-b367-4610-a930-22dd4415da87\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_requestedvq\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"81ed9c96-6a33-4857-8fd2-1e2332d92b93\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"81ed9c96-6a33-4857-8fd2-1e2332d92b93\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_requestedvq_ = #\"81ed9c96-6a33-4857-8fd2-1e2332d92b93\"{[entity=\"RV_trafero_semantic_canonical_tsc_requestedvq\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_requestedvq_,",
                 "    {{\"RequestedVQ\", \"Requested VQ\"}}",
@@ -78558,6 +77276,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78605,16 +77327,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"72de190b-bea1-43af-832b-68f0d5e9a988\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"72de190b-bea1-43af-832b-68f0d5e9a988\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_requiredskill_ = #\"72de190b-bea1-43af-832b-68f0d5e9a988\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_requiredskill\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"80664132-bda5-486a-b65e-ffebd4cee063\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"80664132-bda5-486a-b65e-ffebd4cee063\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_requiredskill_ = #\"80664132-bda5-486a-b65e-ffebd4cee063\"{[entity=\"RV_trafero_semantic_canonical_tsc_requiredskill\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_requiredskill_,",
                 "    {{\"RequiredSkill\", \"Required Skill\"}}",
@@ -78633,6 +77349,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78680,16 +77400,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"004d2149-76ad-4c5b-ab88-9b7be54fd389\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"004d2149-76ad-4c5b-ab88-9b7be54fd389\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_resourcerole_ = #\"004d2149-76ad-4c5b-ab88-9b7be54fd389\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_resourcerole\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"34032196-cc52-4838-ac9b-145611955f32\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"34032196-cc52-4838-ac9b-145611955f32\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_resourcerole_ = #\"34032196-cc52-4838-ac9b-145611955f32\"{[entity=\"RV_trafero_semantic_canonical_tsc_resourcerole\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_resourcerole_,",
                 "    {{\"ResourceRole\", \"Resource Role\"}}",
@@ -78708,6 +77422,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78755,16 +77473,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"6ddde07f-882c-4317-97de-84a5654a4b73\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"6ddde07f-882c-4317-97de-84a5654a4b73\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_resourcetype_ = #\"6ddde07f-882c-4317-97de-84a5654a4b73\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_resourcetype\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"d54682f7-7e58-4052-97d0-17cb87812e04\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"d54682f7-7e58-4052-97d0-17cb87812e04\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_resourcetype_ = #\"d54682f7-7e58-4052-97d0-17cb87812e04\"{[entity=\"RV_trafero_semantic_canonical_tsc_resourcetype\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_resourcetype_,",
                 "    {{\"ResourceType\", \"Resource Type\"}}",
@@ -78783,6 +77495,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -78830,16 +77546,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"6f70f21a-5a6e-4f67-9072-e4e6daa44f15\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"6f70f21a-5a6e-4f67-9072-e4e6daa44f15\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_resultreason_ = #\"6f70f21a-5a6e-4f67-9072-e4e6daa44f15\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_resultreason\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"9faed760-3a93-4a09-84ec-d9ad712a7602\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"9faed760-3a93-4a09-84ec-d9ad712a7602\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_resultreason_ = #\"9faed760-3a93-4a09-84ec-d9ad712a7602\"{[entity=\"RV_trafero_semantic_canonical_tsc_resultreason\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_resultreason_,",
                 "    {{\"ResultReason\", \"Result Reason\"}}",
@@ -79621,6 +78331,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -79668,16 +78382,10 @@
               "expression": [
                 "let",
                 "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"bd4a56dd-2f40-4e99-9437-1a2c29d5e169\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"bd4a56dd-2f40-4e99-9437-1a2c29d5e169\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_statusdescription_ = #\"bd4a56dd-2f40-4e99-9437-1a2c29d5e169\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_statusdescription\", version = \"\"]}",
-                "    [Data],",
+                "    Workspaces = Source{[Id=\"Workspaces\"]}[Data],",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Workspaces{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"c6c614e6-2de7-4d94-bf1f-addb22420c82\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"c6c614e6-2de7-4d94-bf1f-addb22420c82\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_statusdescription_ = #\"c6c614e6-2de7-4d94-bf1f-addb22420c82\"{[entity=\"RV_trafero_semantic_canonical_tsc_statusdescription\",version=\"\"]}[Data],",
                 "  #\"Renamed Columns\" = Table.RenameColumns(",
                 "    RV_trafero_semantic_canonical_tsc_statusdescription_,",
                 "    {{\"StatusDescription\", \"Status Description\"}}",
@@ -79696,6 +78404,10 @@
           {
             "name": "PBI_ResultType",
             "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
           }
         ],
         "columns": [
@@ -79720,7 +78432,7 @@
             "summarizeBy": "none"
           },
           {
-            "name": "Technical Result",
+            "name": "TechnicalResult",
             "annotations": [
               {
                 "name": "SummarizationSetBy",
@@ -79729,7 +78441,7 @@
             ],
             "dataType": "string",
             "lineageTag": "09818210-3382-4f86-929a-324fec2628c9",
-            "sourceColumn": "Technical Result",
+            "sourceColumn": "TechnicalResult",
             "summarizeBy": "none"
           }
         ],
@@ -79742,23 +78454,12 @@
             "source": {
               "expression": [
                 "let",
-                "  Source = PowerPlatform.Dataflows(null),",
-                "  Workspaces = Source{[Id = \"Workspaces\"]}[Data],",
-                "  #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\" = Workspaces",
-                "    {[workspaceId = \"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"]}",
-                "    [Data],",
-                "  #\"3032041a-61e6-4eba-b36b-a15d8ddce900\" = #\"4c4b04f0-f3fc-4be5-ad03-f3c5fbba8310\"",
-                "    {[dataflowId = \"3032041a-61e6-4eba-b36b-a15d8ddce900\"]}",
-                "    [Data],",
-                "  RV_trafero_semantic_canonical_tsc_technicalresult_ = #\"3032041a-61e6-4eba-b36b-a15d8ddce900\"",
-                "    {[entity = \"RV_trafero_semantic_canonical_tsc_technicalresult\", version = \"\"]}",
-                "    [Data],",
-                "  #\"Renamed Columns\" = Table.RenameColumns(",
-                "    RV_trafero_semantic_canonical_tsc_technicalresult_,",
-                "    {{\"TechnicalResult\", \"Technical Result\"}}",
-                "  )",
+                "    Source = PowerBI.Dataflows(null),",
+                "    #\"ec247162-0dd7-491e-ac17-6526548b0b5a\" = Source{[workspaceId=\"ec247162-0dd7-491e-ac17-6526548b0b5a\"]}[Data],",
+                "    #\"70f8f7a6-97dc-4405-a4f5-7e264c568830\" = #\"ec247162-0dd7-491e-ac17-6526548b0b5a\"{[dataflowId=\"70f8f7a6-97dc-4405-a4f5-7e264c568830\"]}[Data],",
+                "    RV_trafero_semantic_canonical_tsc_technicalresult1 = #\"70f8f7a6-97dc-4405-a4f5-7e264c568830\"{[entity=\"RV_trafero_semantic_canonical_tsc_technicalresult\"]}[Data]",
                 "in",
-                "  #\"Renamed Columns\""
+                "    RV_trafero_semantic_canonical_tsc_technicalresult1"
               ],
               "type": "m"
             }
